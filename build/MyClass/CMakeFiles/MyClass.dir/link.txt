@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyClass.a  CMakeFiles/MyClass.dir/MyClass.cpp.o
+/usr/bin/ranlib libMyClass.a

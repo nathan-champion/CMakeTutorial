@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nathan/repos/helloWorld/build",
+  "command": "/usr/bin/g++   -I/home/nathan/repos/helloWorld/MyClass/include  -g   -o CMakeFiles/HelloWorld.dir/main.cpp.o -c /home/nathan/repos/helloWorld/main.cpp",
+  "file": "/home/nathan/repos/helloWorld/main.cpp"
+},
+{
+  "directory": "/home/nathan/repos/helloWorld/build/MyClass",
+  "command": "/usr/bin/g++   -I/home/nathan/repos/helloWorld/MyClass/include  -g   -o CMakeFiles/MyClass.dir/MyClass.cpp.o -c /home/nathan/repos/helloWorld/MyClass/MyClass.cpp",
+  "file": "/home/nathan/repos/helloWorld/MyClass/MyClass.cpp"
+}
+]
